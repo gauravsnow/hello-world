@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Gaurav You will get success keep knocking the door Hope is the best thing !!!!!!!  </h1>
+   <h1> Thankyou, Happy Learning Gaurav You will get success keep knocking the door Hope is the best thing The Docker installation has been done.!!!!!!!  </h1>
 
   
 </form>
